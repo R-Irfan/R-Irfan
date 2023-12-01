@@ -1,6 +1,6 @@
 ## Hi! I'm Irfan.
 
-Hello, I'm Irfan, an XR Developer at Rebel Goods with a wealth of experience and a passion for pushing the boundaries of immersive technology. As a former XROS fellow, selected from a pool of 10,000 applicants and sponsored by Meta and FICCI, I played a pivotal role in the development of the Sneakerland App. My focus on the Avatar Customization System and AR Try-On features resulted in a project that I proudly open-sourced. Beyond my professional endeavors, I've ventured into freelance projects, showcasing my versatility in Product and Architectural visualization. With a keen interest in smartphone-based 6DoF XR Solutions, I'm actively researching and developing innovative techniques, from hand tracking interactions to using a PC mouse as a 6DoF Controller.
+an XR Developer at Rebel Goods with a wealth of experience and a passion for pushing the boundaries of immersive technology. As a former XROS fellow, selected from a pool of 10,000 applicants and sponsored by Meta and FICCI, I played a pivotal role in the development of the Sneakerland App. My focus on the Avatar Customization System and AR Try-On features resulted in a project that I proudly open-sourced. Beyond my professional endeavors, I've ventured into freelance projects, showcasing my versatility in Product and Architectural visualization. With a keen interest in smartphone-based 6DoF XR Solutions, I'm actively researching and developing innovative techniques, from hand tracking interactions to using a PC mouse as a 6DoF Controller.
 
 
 
