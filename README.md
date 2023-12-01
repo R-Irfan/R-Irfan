@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi! I'm Irfan.
+
+#### I'm an *XR Developer*, working at Rebel Goods. I have intermediate experience in Unity3d, ARFoundation, XR Interaction toolkit, and other XR SDKs. In my free time, I am researching and developing a smartphone-based 6DoF XR Solutions, with various input methods like Hand tracking interactions, support for generic Bluetooth controllers, using the normal PC mouse as a 6DoF Controller, Secondary smartphone as controller 3DoF(using Gyro sensor) and 6DoF (using ARCore positional tracking), Hand tracking interactions, etc., I am planning to open source some of the techniques I developed, once I integrate it with the XR Interaction toolkit and MRTK. . 
+ 
+
+> twitter: [@irfan_xr](https://twitter.com/irfan_xr)<br/>
+> linkedin: [in/rirfan](www.linkedin.com/in/rirfan)<br/>
+> Portfolio: [R Irfan](https://r-irfan.github.io/)
+
 
 <!--
 **R-Irfan/R-Irfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
